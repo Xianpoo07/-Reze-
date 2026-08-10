@@ -21,13 +21,8 @@
 </div>
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-[![Reddit](https://img.shields.io/badge/Reddit-291b3e?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/kamomiila/)
-[![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/kamomiilla)
-[![Discord](https://img.shields.io/badge/Discord-291b3e?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/invite/THnDTr3B)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thlastgui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santilli-luz-b3a887387)
 
 </div>
 
@@ -47,8 +42,4 @@
 
 </div>
 <br>
-
-<div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thlastgui)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santilli-luz-b3a887387)
 
