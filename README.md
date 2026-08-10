@@ -36,7 +36,7 @@
   <div style="flex-basis: 48%;">
     <h3>🤖 Programming Languages</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C#" height="30" width="40" src="https://beecrowd.com/wp-content/uploads/2024/04/2023-09-19-C-sharp.jpg">
+    <img align="center" alt="C#" height="30" width="40" src="https://stickersdevs.com.br/wp-content/uploads/2022/01/c-sharp-adesivo-sticker.png">
     <img align="center" alt="NOSQL" height="30" width="40" src="https://w7.pngwing.com/pngs/452/601/png-transparent-object-database-nosql-nuget-nosql-icon-blue-data-electric-blue-thumbnail.png">
     <img align="center" alt="HTML" height="30" width="40" src="https://camo.githubusercontent.com/822fcc8df1633008d599cfe1c3a85e7d15374fa6d9b08e3262e04106b4ea44b0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667">
     <img align="center" alt="Css" height="30" width="40" src="https://camo.githubusercontent.com/35ac0694790ddda21ada952700c09d2995ea90b8cb37857f52aa63041a131959/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f637373332f637373332d6f726967696e616c2e737667">
