@@ -34,7 +34,7 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>🤖 Programming Languages</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C#" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOa_QwAhNUoHGavMBL_FK3eqet89QFy6LbiZIyQl1gidHcnRBvEFDHKoY&s=10">
     <img align="center" alt="NOSQL" height="30" width="40" src="https://w7.pngwing.com/pngs/452/601/png-transparent-object-database-nosql-nuget-nosql-icon-blue-data-electric-blue-thumbnail.png">
