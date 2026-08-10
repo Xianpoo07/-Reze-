@@ -39,9 +39,9 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C#" height="30" width="40" src="https://stickersdevs.com.br/wp-content/uploads/2022/01/c-sharp-adesivo-sticker.png">
-    <img align="center" alt="NOSQL" height="30" width="40" src="https://stickersdevs.com.br/wp-content/uploads/2022/01/c-sharp-adesivo-sticker.png">
-    <img align="center" alt="HTML" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10">
-    <img align="center" alt="Css" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10">
-    <img align="center" alt="javascript" height="30" width="40" src="https://assets.pluhe.com/blog/small/JqxsAtj7G5bc4D8vfE5LKrGjLhm2dgYi7aRtEXBd.jpg">
+    <img align="center" alt="C#" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOa_QwAhNUoHGavMBL_FK3eqet89QFy6LbiZIyQl1gidHcnRBvEFDHKoY&s=10">
+    <img align="center" alt="NOSQL" height="30" width="40" src="https://w7.pngwing.com/pngs/452/601/png-transparent-object-database-nosql-nuget-nosql-icon-blue-data-electric-blue-thumbnail.png">
+    <img align="center" alt="HTML" height="30" width="40" src="https://logospng.org/wp-content/uploads/html-5.png">
+    <img align="center" alt="Css" height="30" width="40" src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg.webp">
+    <img align="center" alt="javascript" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGQEN0LyZZkpRN1pph5vfeZGMOqUZ-lmP0_OaVbX0FIr4ZtxwRklp0ArT&s=10">
   </div>
