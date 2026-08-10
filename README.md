@@ -38,7 +38,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C#" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOa_QwAhNUoHGavMBL_FK3eqet89QFy6LbiZIyQl1gidHcnRBvEFDHKoY&s=10">
     <img align="center" alt="NOSQL" height="30" width="40" src="https://w7.pngwing.com/pngs/452/601/png-transparent-object-database-nosql-nuget-nosql-icon-blue-data-electric-blue-thumbnail.png">
-    <img align="center" alt="HTML" height="30" width="40" src="https://logospng.org/wp-content/uploads/html-5.png">
+    <img align="center" alt="HTML" height="30" width="40" src="https://camo.githubusercontent.com/822fcc8df1633008d599cfe1c3a85e7d15374fa6d9b08e3262e04106b4ea44b0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667">
     <img align="center" alt="Css" height="30" width="40" src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg.webp">
     <img align="center" alt="javascript" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGQEN0LyZZkpRN1pph5vfeZGMOqUZ-lmP0_OaVbX0FIr4ZtxwRklp0ArT&s=10">
   </div>
