@@ -35,5 +35,6 @@
   <img width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" />
 
 </div>
+<img align="right" height="470" src="https://images.steamusercontent.com/ugc/11817340014712129185/E0C5F9AF6A077E7184CAD3FC02D15C8C2D201191/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 <br>
 
