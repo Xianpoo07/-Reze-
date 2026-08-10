@@ -29,12 +29,35 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1920px-Logo_C_sharp.svg.png" />
+</a>
+&nbsp;&nbsp;
+<div align="center">
+
+<a href="#️-main-stack">
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1920px-Logo_C_sharp.svg.png" />
+</a>
+&nbsp;&nbsp;
+
+<a href="#️-main-stack">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="#️-main-stack">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="#️-main-stack">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="#️-main-stack">
   <img width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" />
+</a>
+
 </div>
+
+<br>
+<br>
 
 <div align="center">
                                              🚀About Me
