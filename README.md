@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=dd0afc&width=900&size=30&center=true&lines=Hello!+My+name+is+Guilherme;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=dd0afc&width=900&size=30&center=true&lines=Hello!+My+name+is+Guilherme;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
