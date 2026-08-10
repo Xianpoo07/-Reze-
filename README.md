@@ -14,7 +14,7 @@
 <br>
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xianpoo07&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xianpoo07&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xianpoo0&theme=jolly&utcOffset=-3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xianpoo07&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xianpoo07&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xianpoo07&theme=jolly&utcOffset=-3) |
 | :-: | :-: | :-: |
 
 
@@ -23,7 +23,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shanpuu_ni/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santilli-luz-b3a887387)
-
+[![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](Guilherme.Santilli@Outlook.com)
 </div>
 
 
