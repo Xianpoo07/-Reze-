@@ -33,8 +33,15 @@
 &nbsp;&nbsp;
 <div align="center">
 
+
+
 <a href="#️-main-stack">
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1920px-Logo_C_sharp.svg.png" />
+</a>
+&nbsp;&nbsp;
+
+<a href="#️-main-stack">
+  <img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSdo1gLpwnDz2Ky18XpJqt61Rsg_VYohIUwSuX23b3IBSqyLHRt1Mwi0&s=10" />
 </a>
 &nbsp;&nbsp;
 
